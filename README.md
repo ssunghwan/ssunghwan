@@ -60,13 +60,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <!-- Grafana -->
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <!-- Whatap (공식 로고 없음) -->
-  <img src="https://img.shields.io/badge/Whatap-444444?style=for-the-badge&logoColor=white" />
 
   <br/>
 
   <!-- 3rd row: for-the-badge -->
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-</
