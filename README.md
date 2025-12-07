@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Contact 섹션 -->
-<h3>📧 Contact</h3>
+<h3 align="center">📧 Contact</h3>
 <p>
   <a href="mailto:ysa8497@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ysa8497%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- About me 섹션 -->
-<h3>👋 About me</h3>
+<h3 align="center">👋 About me</h3>
 <p>
   <a href="https://www.notion.so/ssunghwan/1115c3d3ac2d80b2a1e6de3c54f01890?source=copy_link" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Portfolio" />
@@ -39,6 +39,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!-- 여백 -->
+<br/><br/>
 
 <!-- 소개글 -->
 <p align="center">
