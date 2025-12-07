@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- header -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SeungAh's+Github!👋&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SungHwan's+Github!👋&fontSize=40"/>
 </p>
  
 <!-- badge -->
@@ -27,3 +27,10 @@ Here are some ideas to get you started:
   <!-- Tistory -->
   <a href="https://ssunghwan.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
+
+<!-- 소개글 -->
+<p align="center">
+  안녕하세요,<br/>
+  👨‍💻 Cloud Engineer로 활동하고 있지만 DevOps 관련된 공부를 하기 위한 Repo 입니다.<br/>
+</p>
+
