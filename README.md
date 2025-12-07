@@ -40,21 +40,31 @@ Here are some ideas to get you started:
 <p align="left">
 
   <!-- 1st row -->
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
-  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <!-- Amazon AWS (네가 준 링크/스타일 그대로) -->
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <!-- Azure (flat-square로 맞춰 줌) -->
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <!-- Kubernetes (flat-square로 맞춰 줌) -->
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <!-- Docker (네가 준 링크/스타일 그대로) -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
   <br/>
 
   <!-- 2nd row -->
-  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
-  <a href="https://argo-cd.readthedocs.io/"><img src="https://img.shields.io/badge/ArgoCD-FB6B3D?style=for-the-badge&logo=argo&logoColor=white"/></a>
-  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/></a>
-  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>
-  <a href="https://www.whatap.io/"><img src="https://img.shields.io/badge/Whatap-444444?style=for-the-badge&logoColor=white"/></a>
+  <!-- GitHub Actions (네가 준 링크/스타일 그대로) -->
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
+  <!-- ArgoCD (for-the-badge로 통일) -->
+  <img src="https://img.shields.io/badge/ArgoCD-FB6B3D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <!-- Prometheus (네가 준 링크/스타일 그대로) -->
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
+  <!-- Grafana (네가 준 링크/스타일 그대로) -->
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <!-- Whatap (로고가 없어 텍스트 배지로 처리) -->
+  <img src="https://img.shields.io/badge/Whatap-444444?style=for-the-badge&logoColor=white"/>
 
   <br/>
 
   <!-- 3rd row -->
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <!-- Python (네가 준 링크/스타일 그대로) -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logo  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
