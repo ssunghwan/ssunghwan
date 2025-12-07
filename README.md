@@ -78,3 +78,31 @@ DevOps 관련된 공부를 하기 위한 Repo를 운영중이에요.<br/>
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
+<!-- 여백 -->
+<br/>
+
+<!-- Experiences -->
+<h3 align="left">🏃 Experiences</h3>
+<div align="left">
+
+  <ul style="list-style: none; padding-left: 0; margin: 8px 0 20px;">
+    <li>• 2024.07 ~ 2024.12 우리에프아이에스 아카데미(우리FISA) 3기 – 우리에프아이에스</li>
+    <li>• 2023.01 ~ 2023.12 삼성 청년 SW 아카데미(SSAFY) 9기 – 삼성전자</li>
+    <li>• 2021.02 ~ 2021.02 Elasticsearch Training – 엘라스틱서치코리아, 상명대학교</li>
+    <li>• 2018.03 ~ 2022.02 상명대학교 SW융합학부 컴퓨터과학전공</li>
+  </ul>
+
+</div>
+
+<!-- Certificates -->
+<h3 align="left">📜 Certificates</h3>
+<div align="left">
+
+  <ul style="list-style: none; padding-left: 0; margin: 8px 0 10px;">
+    <li>• 2024.06.21 SQL 개발자(SQLD) – 한국데이터산업진흥원</li>
+    <li>• 2024.06.18 정보처리기사 – 한국산업인력공단</li>
+    <li>• 2023.09.13 OPIc(English) IM1 – ACTFL</li>
+    <li>• 2022.09.03 Microsoft Certified: Azure Fundamentals (AZ-900) – Microsoft</li>
+  </ul>
+
+</
