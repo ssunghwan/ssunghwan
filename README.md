@@ -22,24 +22,23 @@ Here are some ideas to get you started:
 
 <!-- Contact -->
 <h3 align="center">🧾 Contact</h3>
-<p align="center">
+<div align="center" style="margin-bottom: 10px;">
   <a href="mailto:h27052020@gmail.com">
     <img src="https://img.shields.io/badge/h27052020@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</div>
 
 <!-- About me -->
 <h3 align="center">👋 About me</h3>
-<p align="center">
-  <a href="https://www.notion.so/ssunghwan/1115c3d3ac2d80b2a1e6de3c54f01890?source=copy_link">
+<div align="center">
+  <a href="https://www.notion.so/your-portfolio-link">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://ssunghwan.tistory.com/">
     <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
-</p>
-
+</div
 
 
 <!-- 소개글 -->
