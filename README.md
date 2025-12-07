@@ -81,25 +81,29 @@ DevOps 관련된 공부를 하기 위한 Repo를 운영중이에요.<br/>
 <!-- 여백 -->
 <br/><br/>
 
+
 <!-- Experiences -->
-<h3 align="left">🏃 Experiences</h3>
+<h3 align="left">🏃 Complete Training Course</h3>
 <div align="left">
-
   <ul style="list-style: none; padding-left: 0; margin: 8px 0 20px;">
-    <li>• 2023.10 ~ 2024.04 클라우드 데브옵스(DevOps) 엔지니어 및 관리자 양성과정 – 한국정보교육원</li>
-    <li>• 2022.04.18 ~ 2022.04.21 차세대 라우팅 기술 운영관리 과정 – 한국전파진흥협회</li>
-    <li>• 2022.03.14 ~ 2022.03.17 가상 사설 네트워크 보안 과정 – 한국전파진흥협회</li>
-    <li>• 2020.12 ~ 2021.06 정보보안 정보시스템구축(개발,운영) 과정 – 휴먼교육센터</li>
+    <li>• 한국정보교육원 | 클라우드 데브옵스(DevOps) 엔지니어 및 관리자 양성과정  2023.10 ~ 2024.04</li>
+    <li>• 한국전파진흥협회 | 차세대 라우팅 기술 운영관리 과정  2022.04.18 ~ 2022.04.21</li>
+    <li>• 한국전파진흥협회 | 가상 사설 네트워크 보안 과정  2022.03.14 ~ 2022.03.17</li>
+    <li>• 휴먼교육센터 | 정보보안 정보시스템구축(개발,운영) 과정  2020.12 ~ 2021.06</li>
+    <!-- 추가된 줄 -->
+    <li>• 한국정보교육원 | 클라우드 기반 CI/CD 파이프라인 구축 과정  2024.05 ~ 2024.06</li>
+    <li>• 한국정보교육원 | 컨테이너 오케스트레이션(Kubernetes) 실무 과정  2024.07 ~ 2024.08</li>
   </ul>
-
 </div>
 
 <!-- Certificates -->
 <h3 align="left">📜 Certificates</h3>
 <div align="left">
-
   <ul style="list-style: none; padding-left: 0; margin: 8px 0 10px;">
-    <li>• 2024.04 Certified Kubernetes Administrator Developer – CNCF</li>
-    <li>• 2024.04 Certified Kubernetes Administrator – CNCF</li>
-    <li>• 2023.12 AWS Solution Architect Professional - AWS</li>
+    <li>• CNCF | Certified Kubernetes Administrator Developer  2024.04</li>
+    <li>• CNCF | Certified Kubernetes Administrator  2024.02</li>
+    <li>• AWS | Solution Architect Professional  2023.12</li>
+    <!-- 추가된 줄 -->
+    <li>• Microsoft | Azure Administrator Associate  2023.09</li>
+    <li>• Linux Foundation | Certified Docker Professional  2024.01</li>
   </ul>
