@@ -20,13 +20,26 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SungHwan's+Github!👋&fontSize=40"/>
 </p>
 
-<!-- badge -->
-<p align='center'>
-<!-- gmail -->
-<img src="https://img.shields.io/badge/h27052020@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-<!-- Tistory -->
-<a href="https://ssunghwan.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<!-- Contact -->
+<h3 align="center">🧾 Contact</h3>
+<p align="center">
+  <a href="mailto:h27052020@gmail.com">
+    <img src="https://img.shields.io/badge/h27052020@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+<!-- About me -->
+<h3 align="center">👋 About me</h3>
+<p align="center">
+  <a href="https://www.notion.so/your-portfolio-link">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://ssunghwan.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+</p>
+
 
 <!-- 소개글 -->
 <p align="center">
