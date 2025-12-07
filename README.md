@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- 여백 -->
-<br/><br/>
+<br/>
 
 <!-- 소개글 -->
 <p align="center">
