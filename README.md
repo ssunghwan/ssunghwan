@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- 소개글 -->
 <p align="center">
   안녕하세요,<br/>
-  DevOps 관련된 공부를 하기 위한 Repo를 운영중이에요.
-  👨‍💻 Cloud Engineer 허성환이라고 합니다 👨‍💻 <br/>
+  DevOps 관련된 공부를 하기 위한 Repo를 운영중이에요.<br/>
+  👨‍💻 Cloud Engineer 허성환이라고 합니다 👨‍💻
 </p>
 
