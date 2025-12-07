@@ -86,10 +86,10 @@ DevOps 관련된 공부를 하기 위한 Repo를 운영중이에요.<br/>
 <div align="left">
 
   <ul style="list-style: none; padding-left: 0; margin: 8px 0 20px;">
-    <li>• 2024.07 ~ 2024.12 우리에프아이에스 아카데미(우리FISA) 3기 – 우리에프아이에스</li>
-    <li>• 2023.01 ~ 2023.12 삼성 청년 SW 아카데미(SSAFY) 9기 – 삼성전자</li>
-    <li>• 2021.02 ~ 2021.02 Elasticsearch Training – 엘라스틱서치코리아, 상명대학교</li>
-    <li>• 2018.03 ~ 2022.02 상명대학교 SW융합학부 컴퓨터과학전공</li>
+    <li>• 2023.10 ~ 2024.04 클라우드 데브옵스(DevOps) 엔지니어 및 관리자 양성과정 – 한국정보교육원</li>
+    <li>• 2022.04.18 ~ 2022.04.21 차세대 라우팅 기술 운영관리 과정 – 한국전파진흥협회</li>
+    <li>• 2022.03.14 ~ 2022.03.17 가상 사설 네트워크 보안 과정 – 한국전파진흥협회</li>
+    <li>• 2020.12 ~ 2021.06 정보보안 정보시스템구축(개발,운영) 과정 – 휴먼교육센터</li>
   </ul>
 
 </div>
@@ -99,10 +99,7 @@ DevOps 관련된 공부를 하기 위한 Repo를 운영중이에요.<br/>
 <div align="left">
 
   <ul style="list-style: none; padding-left: 0; margin: 8px 0 10px;">
-    <li>• 2024.06.21 SQL 개발자(SQLD) – 한국데이터산업진흥원</li>
-    <li>• 2024.06.18 정보처리기사 – 한국산업인력공단</li>
-    <li>• 2023.09.13 OPIc(English) IM1 – ACTFL</li>
-    <li>• 2022.09.03 Microsoft Certified: Azure Fundamentals (AZ-900) – Microsoft</li>
+    <li>• 2024.04 Certified Kubernetes Administrator Developer – CNCF</li>
+    <li>• 2024.04 Certified Kubernetes Administrator – CNCF</li>
+    <li>• 2023.12 AWS Solution Architect Professional - AWS</li>
   </ul>
-
-</
