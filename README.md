@@ -20,25 +20,24 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SungHwan's+Github!👋&fontSize=40"/>
 </p>
 
-<!-- Contact -->
-<h3 align="center">🧾 Contact</h3>
-<div align="center" style="margin-bottom: 10px;">
-  <a href="mailto:h27052020@gmail.com">
-    <img src="https://img.shields.io/badge/h27052020@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<!-- Contact 섹션 -->
+<h3>📧 Contact</h3>
+<p>
+  <a href="mailto:ysa8497@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ysa8497%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
-<!-- About me -->
-<h3 align="center">👋 About me</h3>
-<div align="center">
-  <a href="https://www.notion.so/your-portfolio-link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<!-- About me 섹션 -->
+<h3>👋 About me</h3>
+<p>
+  <a href="https://www.notion.so/ssunghwan/1115c3d3ac2d80b2a1e6de3c54f01890?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;
-  <a href="https://ssunghwan.tistory.com/">
-    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+  <a href="https://ssunghwan.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" />
   </a>
-</div
+</p>
 
 
 <!-- 소개글 -->
@@ -47,8 +46,6 @@ Here are some ideas to get you started:
 DevOps 관련된 공부를 하기 위한 Repo를 운영중이에요.<br/>
 👨‍💻 Cloud Engineer 허성환이라고 합니다 👨‍💻
 </p>
-
-
 
 <!-- Tech Stacks -->
 ## 💻 Tech Stacks
