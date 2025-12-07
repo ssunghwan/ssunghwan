@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- About me -->
 <h3 align="center">👋 About me</h3>
 <p align="center">
-  <a href="https://www.notion.so/your-portfolio-link">
+  <a href="https://www.notion.so/(https://www.notion.so/ssunghwan/1115c3d3ac2d80b2a1e6de3c54f01890?source=copy_link)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   &nbsp;
